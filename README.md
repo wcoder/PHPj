@@ -1,4 +1,4 @@
-# simvc-framework
+# PHPj
 Simple MVC framework on PHP
 
 
